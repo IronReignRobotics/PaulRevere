@@ -1,4 +1,5 @@
 PaulRevere
 ==========
-
-Weather alert for us common folk
+Open-source weather alerts.
+Idea by Iron Reign Robotics
+ironreignrobotics.com
